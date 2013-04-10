@@ -1,0 +1,23 @@
+{
+  "name": "avocado-api",
+  "version": "0.0.0",
+  "description": "node.js implementation of the avocado api",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "bin/test"
+  },
+  "repository": "",
+  "author": "Dan McAulay",
+  "license": "BSD",
+  "dependencies": {
+    "request": "~2.16.6",
+    "async-resource": "0.0.3",
+    "underscore": "~1.4.4"
+  },
+  "devDependencies": {
+    "mocha": "~1.9.0"
+  }
+}
