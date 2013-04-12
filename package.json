@@ -1,6 +1,6 @@
 {
   "name": "avocado-api",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "node.js implementation of the avocado api",
   "main": "index.js",
   "directories": {
